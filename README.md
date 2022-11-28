@@ -5,8 +5,7 @@ I am instrumental in structuring several internal systems comprising application
 Skills: PHP / CODEIGNITER / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA
 
 - 🔭 I’m currently working on __Internal Systems__ 
-- 🌱 I’m currently learning __Laravel__, __React__,  __Git__, __Phyton__ 
-- 🤔 I’m looking for help with __Canada Application__ 
+- 🌱 I’m currently learning __Laravel__, __React__,  __Git__, __Phyton__
 - 📫 How to reach me: _daniel.orito.jr@gmail.com_ 
 - 😄 Pronouns: __Mr.__ 
 
