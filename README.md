@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Daniel Orito Jr.
 #### I'm a PHP Developer
-I am instrumental in structuring several internal systems comprising application development, management processing system, MIS, CRM, and EMR. In my current role at OBI, I have designed and implemented several web-automated internal systems such as the Client Portal System, Recruitment and Hiring Platform, Applicant Tracking and Processing System, Product Services Payment Processing System, Employee LMS, and Training Modular System. In my former Drainwiz role, I created multiple management information systems and the Customer Related Management (CRM) of Hospital MIS and EMR.
+I am instrumental in structuring several internal systems comprising application development, management processing system, MIS, CRM, and EMR. I have designed and implemented several web-automated internal systems such as the Client Portal System, Recruitment and Hiring Platform, Applicant Tracking and Processing System, Product Services Payment Processing System, Employee LMS, and Training Modular System. I also created multiple management information systems and the Customer Related Management (CRM) of Hospital MIS and EMR.
 
 Skills: PHP / CODEIGNITER / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA
 
