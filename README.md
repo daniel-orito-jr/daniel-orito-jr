@@ -2,7 +2,7 @@
 #### I'm a PHP Developer
 I am instrumental in structuring several internal systems comprising application development, management processing system, MIS, CRM, and EMR. I have designed and implemented several web-automated internal systems such as the Client Portal System, Recruitment and Hiring Platform, Applicant Tracking and Processing System, Product Services Payment Processing System, Employee LMS, and Training Modular System. I also created multiple management information systems and the Customer Related Management (CRM) of Hospital MIS and EMR.
 
-Skills: PHP / CODEIGNITER / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA
+__Skills:__ PHP / CODEIGNITER / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA
 
 - 🔭 I’m currently working on __Internal Systems__ 
 - 🌱 I’m currently learning __Laravel__, __React__,  __Git__, __Phyton__
