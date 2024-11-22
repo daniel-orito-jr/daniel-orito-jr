@@ -9,10 +9,10 @@ I specialized in web apps, automation scripts, and custom business solutions. Wi
 
 I’m always exploring ways to make systems more efficient and user-friendly. Check out my repositories for projects ranging from API integrations to data reporting tools. Open to collaboration—let’s build something amazing together!
 
-__Skills:__ PHP / CODEIGNITER / WORDPRESS / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA / GOOGLE APPS SCRIPT / GIT / JIRA / SAAS / POSTMAN / ELEMENTOR / WOOCOOMERCE / DIVI / ZION BUILDER / YOAST SEO
+__Skills:__ PHP / CODEIGNITER / WORDPRESS / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA / GOOGLE APPS SCRIPT / GIT / JIRA / SAAS / POSTMAN / ELEMENTOR / WOOCOOMERCE / DIVI / ZION BUILDER / YOAST SEO / SUITEDASH / FLOWLU / SLACK / MICROSOFT TEAMS / GOOGLE WORKSPACE / PABBLY / FLOWMATTIC / ZAPIER / N8N / ROBOMOTION / VBOUT / NEXWEAVE / UNICORN PLATFORM
 
 - 🔭 I’m currently working on __E-Commerce Website__ 
-- 🌱 I’m currently learning __Laravel__, __React__, __Angular__, __Phyton__, __Vue__, __AWS__, __SpringBoot__, __Docker__, __PostgreSQL__, __NodeJS__, __Django__, 
+- 🌱 I’m currently learning __Laravel__, __React__, __Angular__, __Phyton__, __Vue__, __AWS__, __SpringBoot__, __Docker__, __PostgreSQL__, __NodeJS__, __Django__
 - 📫 How to reach me: _daniel.orito.jr@gmail.com_ 
 - 😄 Pronouns: __Mr.__ 
 
