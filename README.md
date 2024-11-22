@@ -3,16 +3,16 @@
 
 With more than 5 years of experience in web development and systems architecture, I was instrumental in structuring several internal systems comprising application development, management processing system, MIS, CRM, and EMR. 
 
-I am instrumental in structuring several internal systems comprising application development, management processing system, MIS, CRM, and EMR. I have designed and implemented several web-automated internal systems such as the Client Portal System, Recruitment and Hiring Platform, Applicant Tracking and Processing System, Product Services Payment Processing System, Employee LMS, and Training Modular System. I also created multiple management information systems and the Customer Related Management (CRM) of Hospital MIS and EMR.
+I have designed and implemented several web-automated internal systems such as the Client Portal System, Recruitment and Hiring Platform, Applicant Tracking and Processing System, Product Services Payment Processing System, Employee LMS, and Training Modular System. I also created multiple management information systems and the Customer Related Management (CRM) of Hospital MIS and EMR.
 
 I specialized in web apps, automation scripts, and custom business solutions. With a background in healthcare systems, call center platforms, and SaaS development, I’ve built everything from CRM portals to workflow automation tools. My toolkit includes PHP, JavaScript, Google Apps Script, HTML/CSS, and frameworks like CodeIgniter and Bootstrap.
 
 I’m always exploring ways to make systems more efficient and user-friendly. Check out my repositories for projects ranging from API integrations to data reporting tools. Open to collaboration—let’s build something amazing together!
 
-__Skills:__ PHP / CODEIGNITER / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA / GOOGLE APPS SCRIPT / GIT / JIRA / SAAS PRODUCTS
+__Skills:__ PHP / CODEIGNITER / WORDPRESS / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA / GOOGLE APPS SCRIPT / GIT / JIRA / SAAS PRODUCTS
 
-- 🔭 I’m currently working on __Internal Systems__ 
-- 🌱 I’m currently learning __Laravel__, __React__, __Angular__, __Phyton__, __Vue__, __AWS__, __SpringBoot__ 
+- 🔭 I’m currently working on __E-Commerce Website__ 
+- 🌱 I’m currently learning __Laravel__, __React__, __Angular__, __Phyton__, __Vue__, __AWS__, __SpringBoot__, __Docker__, __PostgressSQL__
 - 📫 How to reach me: _daniel.orito.jr@gmail.com_ 
 - 😄 Pronouns: __Mr.__ 
 
