@@ -9,13 +9,12 @@ I specialized in web apps, automation scripts, and custom business solutions. Wi
 
 I’m always exploring ways to make systems more efficient and user-friendly. Check out my repositories for projects ranging from API integrations to data reporting tools. Open to collaboration—let’s build something amazing together!
 
-__Skills:__ PHP / CODEIGNITER / WORDPRESS / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA / GOOGLE APPS SCRIPT / GIT / JIRA / SAAS / POSTMAN / ELEMENTOR / WOOCOOMERCE / DIVI / ZION BUILDER / YOAST SEO / SUITEDASH / FLOWLU / SLACK / MICROSOFT TEAMS / GOOGLE WORKSPACE / PABBLY / FLOWMATTIC / ZAPIER / N8N / ROBOMOTION / VBOUT / NEXWEAVE / UNICORN PLATFORM / CHARTJS / MATERIALIZE / TAILWIND / ANDROID / MARIA DB / SQLLITE / CANVASS JS / CHART JS / PHOTOSHOP
+__Skills:__ PHP / CODEIGNITER / WORDPRESS / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA / GOOGLE APPS SCRIPT / GIT / JIRA / SAAS / POSTMAN / ELEMENTOR / WOOCOOMERCE / DIVI / ZION BUILDER / YOAST SEO / SUITEDASH / FLOWLU / SLACK / MICROSOFT TEAMS / GOOGLE WORKSPACE / PABBLY / FLOWMATTIC / ZAPIER / N8N / ROBOMOTION / VBOUT / NEXWEAVE / UNICORN PLATFORM / CHARTJS / MATERIALIZE / TAILWIND / ANDROID / MARIA DB / SQLLITE / CANVASS JS / CHART JS / PHOTOSHOP / JASPER REPORTS / JAVA BRIDGE / TOMCAT
 
 - 🔭 I’m currently working on __E-Commerce Website__ 
 - 🌱 I’m currently learning __Laravel__, __React__, __Angular__, __Phyton__, __Vue__, __AWS__, __SpringBoot__, __Docker__, __PostgreSQL__, __NodeJS__, __Django__
 - 📫 How to reach me: _daniel.orito.jr@gmail.com_ 
 - 😄 Pronouns: __Mr.__ 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daniel-orito-jr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-orito-jr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/danieldar05)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/daniel.orito.jr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/daniel-orito-jr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/daniel05)  
 
