@@ -5,7 +5,7 @@ With more than 5 years of experience in web development and systems architecture
 
 I have designed and implemented several web-automated internal systems such as the Client Portal System, Recruitment and Hiring Platform, Applicant Tracking and Processing System, Product Services Payment Processing System, Employee LMS, and Training Modular System. I also created multiple management information systems and the Customer Related Management (CRM) of Hospital MIS and EMR.
 
-I specialized in web apps, automation scripts, and custom business solutions. With a background in healthcare systems, call center platforms, and SaaS development, I’ve built everything from CRM portals to workflow automation tools. My toolkit includes PHP, JavaScript, Google Apps Script, HTML/CSS, and frameworks like CodeIgniter and Bootstrap.
+I specialized in web apps, automation scripts, and custom business solutions. With a background in healthcare systems, call center platforms, SaaS development, and cybersecurity systems. I’ve built everything from CRM portals to workflow automation tools. My toolkit includes PHP, JavaScript, Google Apps Script, HTML/CSS, and frameworks like CodeIgniter and Bootstrap.
 
 I’m always exploring ways to make systems more efficient and user-friendly. Check out my repositories for projects ranging from API integrations to data reporting tools. Open to collaboration—let’s build something amazing together!
 
