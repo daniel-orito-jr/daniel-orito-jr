@@ -11,7 +11,7 @@ I’m always exploring ways to make systems more efficient and user-friendly. Ch
 
 __Skills:__ PHP / CODEIGNITER / WORDPRESS / BOOTSTRAP / JS / HTML / CSS / JQUERY / AJAX / JSON / API / MYSQL / JAVA / GOOGLE APPS SCRIPT / GIT / JIRA / SAAS / POSTMAN / ELEMENTOR / WOOCOOMERCE / DIVI / ZION BUILDER / YOAST SEO / SUITEDASH / FLOWLU / SLACK / MICROSOFT TEAMS / GOOGLE WORKSPACE / PABBLY / FLOWMATTIC / ZAPIER / N8N / ROBOMOTION / VBOUT / NEXWEAVE / UNICORN PLATFORM / CHARTJS / MATERIALIZE / TAILWIND / ANDROID / MARIA DB / SQLLITE / CANVASS JS / CHART JS / PHOTOSHOP / JASPER REPORTS / JAVA BRIDGE / TOMCAT
 
-- 🔭 I’m currently working on __E-Commerce Website__ 
+- 🔭 I’m currently working on __Cybersecurity Web App__ 
 - 🌱 I’m currently learning __Laravel__, __React__, __Angular__, __Phyton__, __Vue__, __AWS__, __SpringBoot__, __Docker__, __PostgreSQL__, __NodeJS__, __Django__
 - 📫 How to reach me: _daniel.orito.jr@gmail.com_ 
 - 😄 Pronouns: __Mr.__ 
