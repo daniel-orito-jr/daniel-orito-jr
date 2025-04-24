@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Daniel Orito Jr.
-#### I'm a Web Developer, PHP Developer, Software Developer and Apps Script Developer.
+#### I'm a Web Developer, PHP Developer, Software Developer, Automation Specialist and Apps Script Developer.
 
 With more than 5 years of experience in web development and systems architecture, I was instrumental in structuring several internal systems comprising application development, management processing system, MIS, CRM, and EMR. 
 
